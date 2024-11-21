@@ -21,6 +21,7 @@ Install and configure Kali Linux in Oracle VM VirtualBox.
 ### Step 2: Open Oracle VM VirtualBox
 1. Launch VirtualBox on your computer.
 <img src="https://github.com/user-attachments/assets/de807551-50dd-4024-8746-9dda684bc697" width="400">
+
 ---
 
 ### Step 3: Create a New Virtual Machine
@@ -86,8 +87,6 @@ Install and configure Kali Linux in Oracle VM VirtualBox.
 
 <img src="https://github.com/user-attachments/assets/78e3d1cd-0555-433c-be26-008f79b590a0" width="400">
 
-
-
 ---
 
 ### Step 12: Select Language and Region
@@ -134,8 +133,9 @@ Install and configure Kali Linux in Oracle VM VirtualBox.
 2. Log in using the **root account** and the password you set earlier.
 
 <img src="https://github.com/user-attachments/assets/2cb7bacb-b34d-46b8-b97a-489c2fb78d75" width="300">
----
 
+---
+<br></br>
 ## Result:
 
    Kali linux has been successfully installed in the virtualbox.
